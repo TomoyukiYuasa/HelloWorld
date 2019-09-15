@@ -1,2 +1,2 @@
 # HelloWorld
-A repository for testing
+A repository for a first practice.
